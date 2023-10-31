@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Task3_Shell Sort.cpp">
+    <ClCompile Include="IndependentWork.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
